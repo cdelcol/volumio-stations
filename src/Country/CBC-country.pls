@@ -1,0 +1,9 @@
+[playlist]
+File1=http://2953.live.streamtheworld.com:80/CBC_CONTRY_H_SC
+File2=http://2953.live.streamtheworld.com:3690/CBC_CONTRY_H_SC
+File3=http://2953.live.streamtheworld.com:443/CBC_CONTRY_H_SC
+Title1=CBC_CONTRY_H_SC
+Title2=CBC_CONTRY_H_SC-Bak
+Length1=-1
+NumberOfEntries=3
+Version=2

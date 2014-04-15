@@ -1,0 +1,10 @@
+[playlist]
+File1=http://2943.live.streamtheworld.com:80/CBC_SPCIA2_H_SC
+File2=http://2943.live.streamtheworld.com:3690/CBC_SPCIA2_H_SC
+File3=http://2943.live.streamtheworld.com:443/CBC_SPCIA2_H_SC
+File4=http://2943.live.streamtheworld.com:8000/CBC_SPCIA2_H_SC
+Title1=CBC_SPCIA2_H_SC
+Title2=CBC_SPCIA2_H_SC-Bak
+Length1=-1
+NumberOfEntries=4
+Version=2

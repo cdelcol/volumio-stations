@@ -1,0 +1,14 @@
+[playlist]
+numberofentries=12
+File1=http://relay3.181.fm:10082
+File2=http://relay.181.fm:8082
+File3=http://relay4.181.fm:10082
+File4=http://relay3.181.fm:8082
+File5=http://relay1.181.fm:10082
+File6=http://relay5.181.fm:10082
+File7=http://relay5.181.fm:8082
+File8=http://relay2.181.fm:8082
+File9=http://relay1.181.fm:8082
+File10=http://relay2.181.fm:10082
+File11=http://relay4.181.fm:8082
+File12=http://relay.181.fm:8082
